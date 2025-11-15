@@ -1,4 +1,4 @@
 # chai aur backend series
 
-This is a video serieson backend with javascript
+This is a video series on backend with javascript
 - [Model link] ()
